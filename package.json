@@ -15,7 +15,6 @@
   "@xmldom/xmldom": "0.8.5",
   "fb": "^2.0.0",
   "jwt-simple": "^0.5.6",
-  "request": "2.88.2",
   "urlsafe-base64": "^1.0.0",
   "xml-crypto": "3.0.1"
  },
